@@ -3,7 +3,7 @@
 
 
 def pig():
-	return "It is test."
+	return "It is test desu."
 
 def main():
 	print(pig())
